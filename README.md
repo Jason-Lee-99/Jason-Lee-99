@@ -1,6 +1,9 @@
 ### Hi there 👋
+### Welcom to my page!
 ### I'm Jason Lee from Seoul, Korea.
+
 - 🌱 I’m currently learning Python language.
+- 🔭 I’m currently working on Web Crawling.
 <!--
 **Jason-Lee-99/Jason-Lee-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
