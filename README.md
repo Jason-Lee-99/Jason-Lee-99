@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Jason Lee from Seoul, Republic of Korea.
+### I'm Jason Lee from Seoul, Republic of Korea.
 - 🌱 I’m currently learning Python language.
 <!--
 **Jason-Lee-99/Jason-Lee-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
